@@ -1,7 +1,9 @@
 # AI Email Summarization & Slack Automation
 
 > **Independent Portfolio Project** — A practical automation architecture for turning incoming Gmail messages into structured AI summaries and action items, then delivering them to Slack.
+## 📄 Workflow Sample
 
+[View the AI Email Summarization & Slack Workflow Sample (PDF)](./AI-Email-Summarization-Slack-Workflow-Sample.pdf)
 ## 🎯 Project Goal
 
 The goal is to reduce manual inbox checking while keeping important emails easy to review and act on.
